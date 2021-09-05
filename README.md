@@ -1,9 +1,25 @@
 # Resume 
 Philippe Delteil
 
-@philippedelteil
+[@philippedelteil](https://twitter.com/PhilippeDelteil) | [Medium](https://pdelteil.medium.com)
 
 39 y
+
+### Languages    
+Spanish (native)
+
+English (fluent)
+
+Portuguese (fluent) 
+
+French (rusty, I should be ashamed of my French name)
+
+### nerd Languages 
+bash 
+
+python
+
+java (old times)
 
 ### Formal studies
 
@@ -12,6 +28,7 @@ Engineering mention in Computer Science (6 years long) @ Universidad de Chile
 ### Relevant Experience
 
 2008-2014 Software Engineer
+2015-2015 IBM Brazil
 2015-2018 Consultant Public Health Sector, created first Cybersecurity Department (doing actual pentesting)
   
 ### Teaching
