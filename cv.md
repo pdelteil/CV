@@ -1,7 +1,9 @@
 # Resume 
-**Philippe Delteil
+Philippe Delteil
+
 @philippedelteil
-39 y**
+
+39 y
 
 ### Formal studies
 
