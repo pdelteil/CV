@@ -92,7 +92,7 @@ Red Team Village @ Defcon China 1.0
 
 ### Workshops
 
-[Wifi Hacking @ Defcon China 1.0](https://defcon.org/html/dc-china-1/dc-cn-1-workshops.html) | slides
+[Wifi Hacking @ Defcon China 1.0](https://defcon.org/html/dc-china-1/dc-cn-1-workshops.html#Delteil) | slides
 
 [Wifi Hacking @ Defcon US 27](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20program.pdf) | [slides](https://docs.google.com/presentation/d/1HdJ5Uh-v07sP7dQ2rtvr9GOZ-AaGwVpPNKKlJVaKDO0/edit?usp=sharing) 
 
