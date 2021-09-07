@@ -96,7 +96,7 @@ Red Team Village @ Defcon China 1.0
 
 [Wifi Hacking @ Defcon US 27](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20program.pdf) | [slides](https://docs.google.com/presentation/d/1HdJ5Uh-v07sP7dQ2rtvr9GOZ-AaGwVpPNKKlJVaKDO0/edit?usp=sharing) 
 
-Wifi Hacking @ NoNameConf (Ukraine)
+[Wifi Hacking @ NoNameConf (Ukraine)](https://docs.google.com/presentation/d/1Tiu9Nw7RWXrgbcRzPCc2Kjf5enapTDMOv2jxRYKQ3Ck/edit?usp=sharing)
 
 [Bug Bounty Hunting @Defcon 29](https://forum.defcon.org/node/237322) | [slides](https://docs.google.com/presentation/d/1QgRK6fvSkjctzEijApxURdsU7ifjDi0i6mRd4iHlHT8/edit?usp=sharing)
 BugBounty Hunting @ NoNameConf (Ukraine)  | slides
