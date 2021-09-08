@@ -78,17 +78,21 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
 
 - Macabre stories of a hacker in the public health sector
 
-[Skytalks @Defcon 26](https://docs.google.com/presentation/d/1J7o76FTkxmujaVbkhNuJTeOctmXwmhLWilSqSvLCiYg/edit#slide=id.p)
+    [Skytalks @Defcon 26](https://docs.google.com/presentation/d/1J7o76FTkxmujaVbkhNuJTeOctmXwmhLWilSqSvLCiYg/edit#slide=id.p)
 
-[BSides Chile (2018)](https://welcu.com/bsidescl/bsidescl-latam)
+    [BSides Chile (2018)](https://welcu.com/bsidescl/bsidescl-latam)
 
-8.8 La Paz, Bolivia. Concepcion (2019). Iquique (2019)
+    8.8 La Paz, Bolivia. Concepcion (2019). Iquique (2019)
 
-[CAOS UFRJ (Rio de Janeiro Brasil, 2019)](https://caos.ufrj.br/2019/09/09/philippe-delteil/)
+    [CAOS UFRJ (Rio de Janeiro Brasil, 2019)](https://caos.ufrj.br/2019/09/09/philippe-delteil/)
 
-[Bsides Cape Town (2019)](https://www.youtube.com/watch?v=nr8opyQXdHs)
+    [Bsides Cape Town (2019)](https://www.youtube.com/watch?v=nr8opyQXdHs) 
 
-Red Team Village @ Defcon China 1.0
+    Red Team Village @ Defcon China 1.0
+
+- How to know that you are a hacker?
+
+    8.8 Security Conference, Valparaíso, Chile| [slides](http://bit.ly/ComosaberHacker8dot8Valpo)| [video](https://www.youtube.com/watch?v=my7FoJnva5I)
 
 ### Workshops
 
