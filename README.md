@@ -28,17 +28,20 @@ Engineering mention in Computer Science (6 years long!) @ Universidad de Chile
 ### Relevant Experience
 
 2008-2014 Software Engineer
+
 2015-2015 IBM Brazil
+
 2015-2018 Consultant Public Health Sector, created first Cybersecurity Department (doing actual pentesting)
+
 2018-present Founder Info-sec 
   
 ### Teaching
 
 Introduction to CTF (Universidad de Chile) 2019
 
-Introduction to CTF (Universidad Recoleta, open and free University) 2019
+[Introduction to CTF (Universidad Recoleta, open and free University) 2019](https://ucampus.uarecoleta.cl/m/catalogo/?semestre=20191#id=123)
 
-Everything you wanted to know about computers but never dare to ask (Universidad Recoleta) 2019
+[Everything you wanted to know about computers but never dare to ask (Universidad Recoleta) 2019](https://ucampus.uarecoleta.cl/m/catalogo/?semestre=20191#id=47)
 
 Security chapter Master Medical Informatics @ Universidad de Chile (2019, 2020)
 
