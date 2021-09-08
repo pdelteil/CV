@@ -95,7 +95,7 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
 
     Red Team Village @ Defcon China 1.0
 
-- How to know that you are a hacker?
+- How to know if you are a hacker?
 
     8.8 Security Conference, Valparaíso, Chile| [slides](http://bit.ly/ComosaberHacker8dot8Valpo)| [video](https://www.youtube.com/watch?v=my7FoJnva5I)
 
