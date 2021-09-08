@@ -101,15 +101,15 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
 
 ### Workshops
 
-[Wifi Hacking @ Defcon China 1.0](https://defcon.org/html/dc-china-1/dc-cn-1-workshops.html#Delteil) | slides
+[Wifi Hacking @ Defcon China 1.0](https://defcon.org/html/dc-china-1/dc-cn-1-workshops.html#Delteil) | [slides](https://docs.google.com/presentation/d/1nTjvG2AP1BLcr06oR9wyouTzfTf_UNiCoAM3mbxFfoI/edit?usp=sharing)
 
 [Wifi Hacking @ Defcon US 27](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20program.pdf) | [slides](https://docs.google.com/presentation/d/1HdJ5Uh-v07sP7dQ2rtvr9GOZ-AaGwVpPNKKlJVaKDO0/edit?usp=sharing) 
 
-[Wifi Hacking @ NoNameConf (Ukraine)](https://docs.google.com/presentation/d/1Tiu9Nw7RWXrgbcRzPCc2Kjf5enapTDMOv2jxRYKQ3Ck/edit?usp=sharing)
+[Wifi Hacking @ NoNameConf (Ukraine)](https://cfp.nonamecon.org/nnc2020/talk/MLU9MP/)| [slides](https://docs.google.com/presentation/d/1Tiu9Nw7RWXrgbcRzPCc2Kjf5enapTDMOv2jxRYKQ3Ck/edit?usp=sharing)
 
 [Bug Bounty Hunting @Defcon 29](https://forum.defcon.org/node/237322) | [slides](https://docs.google.com/presentation/d/1QgRK6fvSkjctzEijApxURdsU7ifjDi0i6mRd4iHlHT8/edit?usp=sharing)
 
-BugBounty Hunting @ NoNameConf (Ukraine) | [slides](https://docs.google.com/presentation/d/12fZU5n-KDAH7wN-z5TPmYB3gCezyl_lb1MwpVzlXO9s/edit?usp=sharing)
+[Bug Bounty Hunting @ NoNameConf (Ukraine)](https://cfp.nonamecon.org/nnc2021/talk/RAESPF/) | [slides](https://docs.google.com/presentation/d/12fZU5n-KDAH7wN-z5TPmYB3gCezyl_lb1MwpVzlXO9s/edit?usp=sharing)
 
   
 ### CTF Experience
