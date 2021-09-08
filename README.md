@@ -14,22 +14,23 @@ Portuguese (fluent)
 
 French (rusty, I should be ashamed of my French name)
 
-### nerd Languages 
+### Nerd languages 
 bash 
 
 python
 
-java (old times)
+java
 
 ### Formal studies
 
-Engineering mention in Computer Science (6 years long) @ Universidad de Chile
+Engineering mention in Computer Science (6 years long!) @ Universidad de Chile
 
 ### Relevant Experience
 
 2008-2014 Software Engineer
 2015-2015 IBM Brazil
 2015-2018 Consultant Public Health Sector, created first Cybersecurity Department (doing actual pentesting)
+2018-present Founder Info-sec 
   
 ### Teaching
 
@@ -37,7 +38,7 @@ Introduction to CTF (Universidad de Chile) 2019
 
 Introduction to CTF (Universidad Recoleta, open and free University) 2019
 
-'Everything you wanted to know about computers but never dare to ask' (Universidad Recoleta) 2019
+Everything you wanted to know about computers but never dare to ask (Universidad Recoleta) 2019
 
 Security chapter Master Medical Informatics @ Universidad de Chile (2019, 2020)
 
@@ -45,6 +46,7 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
   
 
 ### Bug Bounty Hunting (1 year experience)
+
 [Open Bug Bounty](https://www.openbugbounty.org/researchers/PhilippeDelteil/)
 
 [HackerOne](https://hackerone.com/fdeleite)
