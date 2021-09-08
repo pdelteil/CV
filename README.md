@@ -99,7 +99,8 @@ Red Team Village @ Defcon China 1.0
 [Wifi Hacking @ NoNameConf (Ukraine)](https://docs.google.com/presentation/d/1Tiu9Nw7RWXrgbcRzPCc2Kjf5enapTDMOv2jxRYKQ3Ck/edit?usp=sharing)
 
 [Bug Bounty Hunting @Defcon 29](https://forum.defcon.org/node/237322) | [slides](https://docs.google.com/presentation/d/1QgRK6fvSkjctzEijApxURdsU7ifjDi0i6mRd4iHlHT8/edit?usp=sharing)
-BugBounty Hunting @ NoNameConf (Ukraine)  | slides
+
+BugBounty Hunting @ NoNameConf (Ukraine) | [slides](https://docs.google.com/presentation/d/12fZU5n-KDAH7wN-z5TPmYB3gCezyl_lb1MwpVzlXO9s/edit?usp=sharing)
 
   
 ### CTF Experience
