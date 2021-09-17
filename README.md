@@ -12,8 +12,6 @@ English (fluent)
 
 Portuguese (fluent) 
 
-French (rusty, I should be ashamed of my French name)
-
 ### Nerd languages 
 bash 
 
