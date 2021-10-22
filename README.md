@@ -57,7 +57,7 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
 [Intigriti](https://app.intigriti.com/researcher/profile/deleite)
   
 
-### Hall of fames
+### Halls of Fame
 [Fintual (as deleite)](https://fintual.com/hall-of-fame.txt)
 
 [Philips](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html)
