@@ -29,7 +29,7 @@ Engineering mention in Computer Science (6 years long!) @ Universidad de Chile
 
 2015-2015 IBM Brazil
 
-2015-2018 Consultant Public Health Sector, created first Cybersecurity Department (doing actual pentesting)
+2015-2018 Consultant Public Health Sector, created first Cybersecurity Department
 
 2018-present Founder Info-sec 
   
@@ -63,6 +63,8 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
 [Philips](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html)
 
 [T-Mobile CZ](https://www.t-mobile.cz/bug-bounty/zed-slavy) 
+
+[Informatica](https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html)
  
 ### Remarkable (Public) Hacks
 [NET ISP Brazil](https://medium.com/hacking-info-sec/como-hacki%C3%A9-al-proveedor-de-internet-m%C3%A1s-grande-de-brasil-c2997d1b6e74)
