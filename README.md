@@ -56,6 +56,9 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
 
 [Intigriti](https://app.intigriti.com/researcher/profile/deleite)
   
+### Recognitions 
+
+[DOD VPD Hunter of the Month](https://twitter.com/DC3VDP/status/1443373496386662400)
 
 ### Halls of Fame
 [Fintual (as deleite)](https://fintual.com/hall-of-fame.txt)
