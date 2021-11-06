@@ -13,15 +13,11 @@ English (fluent)
 Portuguese (fluent) 
 
 ### Nerd languages 
-bash 
-
-python
-
-java
+bash | python | java
 
 ### Formal studies
 
-Engineering mention in Computer Science (6 years long!) @ Universidad de Chile
+Engineering mention in Computer Science @ Universidad de Chile
 
 ### Relevant Experience
 
@@ -31,7 +27,8 @@ Engineering mention in Computer Science (6 years long!) @ Universidad de Chile
 
 2015-2018 Consultant Public Health Sector, created first Cybersecurity Department
 
-2018-present Founder Info-sec 
+2018-present Founder Info-sec
+2021-present Bug bounty hunter (HackerOne, BugCrowd, Intigriti)
   
 ### Teaching
 
