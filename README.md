@@ -57,6 +57,8 @@ Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020,
 
 [DOD VPD Hunter of the Month](https://twitter.com/DC3VDP/status/1443373496386662400)
 
+Intigriti's King of the Hill (October 2021)
+
 ### Halls of Fame
 [Fintual (as deleite)](https://fintual.com/hall-of-fame.txt)
 
