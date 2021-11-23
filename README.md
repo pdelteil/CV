@@ -70,6 +70,8 @@ Intigriti's King of the Hill (October 2021)
  
 [Rea Group](https://www.rea-group.com/about-us/news-and-insights/blog/responsible-vulnerability-disclosure-program-hall-of-fame/)
 
+[Definityinc](https://definityinc.com/hall-of-fame/)
+
 ### Remarkable (Public) Hacks
 [NET ISP Brazil](https://medium.com/hacking-info-sec/como-hacki%C3%A9-al-proveedor-de-internet-m%C3%A1s-grande-de-brasil-c2997d1b6e74)
 
