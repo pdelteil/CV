@@ -95,7 +95,7 @@ Intigriti's King of the Hill (October 2021)
 
     8.8 La Paz, Bolivia. Concepcion (2019). Iquique (2019)
 
-    [CAOS UFRJ (Rio de Janeiro Brasil, 2019)](https://caos.ufrj.br/2019/09/09/philippe-delteil/)
+    [CAOS UFRJ (Rio de Janeiro Brasil, 2019)](https://caos.ufrj.br/2019/09/09/philippe-delteil/) | [video](https://youtu.be/p7nyab5T_DM) 
 
     [Bsides Cape Town (2019)](https://www.youtube.com/watch?v=nr8opyQXdHs) 
 
