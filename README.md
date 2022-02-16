@@ -93,7 +93,7 @@ Intigriti's King of the Hill (October 2021)
 
     [BSides Chile (2018)](https://welcu.com/bsidescl/bsidescl-latam)
 
-    8.8 La Paz, Bolivia. Concepcion (2019). Iquique (2019)
+    8.8 La Paz, Bolivia. Concepcion (2019). [Iquique (2019)] (https://youtu.be/msskIvgM42o) 
 
     [CAOS UFRJ (Rio de Janeiro Brasil, 2019)](https://caos.ufrj.br/2019/09/09/philippe-delteil/) | [video](https://youtu.be/p7nyab5T_DM) 
 
