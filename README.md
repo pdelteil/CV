@@ -91,7 +91,8 @@ Intigriti's King of the Hill (October 2021)
 
     [Skytalks @Defcon 26](https://docs.google.com/presentation/d/1J7o76FTkxmujaVbkhNuJTeOctmXwmhLWilSqSvLCiYg/edit#slide=id.p)
 
-    [BSides Chile (2018)](https://welcu.com/bsidescl/bsidescl-latam)
+    [BSides Chile (2018)](https://welcu.com/bsidescl/bsidescl-latam)|slides|video
+    
 
     8.8 La Paz, Bolivia. Concepcion (2019). [Iquique (2019)](https://youtu.be/msskIvgM42o) 
 
