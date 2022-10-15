@@ -3,8 +3,6 @@ Philippe Delteil
 
 [@philippedelteil](https://twitter.com/PhilippeDelteil) | [Medium](https://pdelteil.medium.com)
 
-39 y
-
 ### Languages    
 Spanish (native)
 
