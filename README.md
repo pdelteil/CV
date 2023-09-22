@@ -82,6 +82,9 @@ Intigriti's King of the Hill (October 2021)
 
 [Bupa and RedSalud (Chile)](https://twitter.com/NYC_Prod/status/1354165107417362437)
 
+### Studies 
+
+[ESTUDIO DE BRECHAS DE MÉDICOS Y ESPECIALISTAS EN EL SECTOR PÚBLICO DE SALUD (MINSAL)](https://www.minsal.cl/wp-content/uploads/2021/10/INFORME-ESTUDIO-BRECHAS-MEDICOS-Y-ODONTOLOGOS.pdf)
  
 ### Talks
 
