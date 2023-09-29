@@ -85,6 +85,9 @@ Intigriti's King of the Hill (October 2021)
 ### Studies 
 
 [ESTUDIO DE BRECHAS DE MÉDICOS Y ESPECIALISTAS EN EL SECTOR PÚBLICO DE SALUD (MINSAL)](https://www.minsal.cl/wp-content/uploads/2021/10/INFORME-ESTUDIO-BRECHAS-MEDICOS-Y-ODONTOLOGOS.pdf)
+
+### Interviews 
+- Darknet diaries (podcast)
  
 ### Talks
 
