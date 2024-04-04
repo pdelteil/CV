@@ -41,24 +41,25 @@ Security chapter Master Medical Informatics @ Universidad de Chile (2019, 2020)
 Security chapter Diploma Medical Informatics @ Universidad de Chile (2019, 2020, 2021)
   
 
-### Bug Bounty Hunting (1 year experience)
-
-[Open Bug Bounty](https://www.openbugbounty.org/researchers/PhilippeDelteil/)
+### Bug Bounty Hunting (2 year experience)
 
 [HackerOne](https://hackerone.com/fdeleite)
 
 [BugCrowd](https://bugcrowd.com/deleite)
 
 [Intigriti](https://app.intigriti.com/researcher/profile/deleite)
+
+~~[Open Bug Bounty](https://www.openbugbounty.org/researchers/PhilippeDelteil/)~~
+
   
 ### Recognitions 
 
-[DOD VPD Hunter of the Month](https://twitter.com/DC3VDP/status/1443373496386662400)
+[DOD VPD Hunter of the Month](https://twitter.com/DC3VDP/status/1443373496386662400) -- [Webarchive](https://web.archive.org/web/20240404232843/https://twitter.com/DC3VDP/status/1443373496386662400)
 
 Intigriti's King of the Hill (October 2021)
 
 ### Halls of Fame
-[Fintual (as deleite)](https://fintual.com/hall-of-fame.txt)
+[Fintual (as deleite)](https://fintual.com/hall-of-fame.txt) -- [WebArchive](https://web.archive.org/web/20240404233145/https://fintual.com/hall-of-fame.txt)
 
 [Philips](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html)
 
@@ -82,12 +83,13 @@ Intigriti's King of the Hill (October 2021)
 
 [Bupa and RedSalud (Chile)](https://twitter.com/NYC_Prod/status/1354165107417362437)
 
-### Studies 
+### Studies/Research
 
 [ESTUDIO DE BRECHAS DE MÉDICOS Y ESPECIALISTAS EN EL SECTOR PÚBLICO DE SALUD (MINSAL)](https://www.minsal.cl/wp-content/uploads/2021/10/INFORME-ESTUDIO-BRECHAS-MEDICOS-Y-ODONTOLOGOS.pdf)
 
 ### Interviews 
-- Darknet diaries (podcast)
+- [Darknet diaries (podcast)](https://podcasts.apple.com/cz/podcast/bonus-10-philippe/id1296350485?i=1000557378521)
+- [Project discovery](https://www.youtube.com/watch?v=IaJpi-64w5w)
  
 ### Talks
 
