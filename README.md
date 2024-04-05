@@ -113,6 +113,8 @@ Intigriti's King of the Hill (October 2021)
 
     [CheckPoint NOLA (2020)](https://community.checkpoint.com/t5/General-Topics/CPX-360-2020/td-p/74584) | [slides](https://docs.google.com/presentation/d/1r55z6LbM6jD5vsh77Mu7g0lQ6BX2g2GZGsowutdOFM0/edit?usp=sharing)| video
 
+  Lightning talk (Starsconf, Santiago de Chile)
+
 - How to know if you are a hacker?
 
     8.8 Security Conference, Valparaíso, Chile| [slides](http://bit.ly/ComosaberHacker8dot8Valpo)| [video](https://www.youtube.com/watch?v=my7FoJnva5I)
