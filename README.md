@@ -106,7 +106,9 @@ Intigriti's King of the Hill (October 2021)
 
     [Bsides Cape Town (2019)](https://www.youtube.com/watch?v=nr8opyQXdHs) 
 
-    Red Team Village @ Defcon China 1.0
+    Red Team Village @ Defcon China 1.0 [slides](https://docs.google.com/presentation/d/1B0dXl0PRu4gnyK1d2GmqjIHg2XDWdalaUTEK5pxJn7Q/edit?usp=drive_link)
+
+    [CheckPoint NOLA (2020)](https://community.checkpoint.com/t5/General-Topics/CPX-360-2020/td-p/74584)
 
 - How to know if you are a hacker?
 
