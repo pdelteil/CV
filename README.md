@@ -97,18 +97,21 @@ Intigriti's King of the Hill (October 2021)
 
     [Skytalks @Defcon 26](https://docs.google.com/presentation/d/1J7o76FTkxmujaVbkhNuJTeOctmXwmhLWilSqSvLCiYg/edit#slide=id.p)
 
-    [BSides Chile (2018)](https://welcu.com/bsidescl/bsidescl-latam)|slides|video
+    [BSides Chile (2018)](https://welcu.com/bsidescl/bsidescl-latam)| [slides](https://docs.google.com/presentation/d/1T_Rga1qpW3lpyTGs2H3yueZ4r6lfpjm857qJ31JP1jM/edit?usp=drive_link) | video
     
 
-    8.8 La Paz, Bolivia. Concepcion (2019). [Iquique (2019)](https://youtu.be/msskIvgM42o) 
+    Conferencia 8.8
+        La Paz, Bolivia.
+        Concepcion (2019).
+        [Iquique (2019)](https://youtu.be/msskIvgM42o) 
 
-    [CAOS UFRJ (Rio de Janeiro Brasil, 2019)](https://caos.ufrj.br/2019/09/09/philippe-delteil/) | [video](https://youtu.be/p7nyab5T_DM) 
+    [CAOS UFRJ (Rio de Janeiro Brasil, 2019)](https://caos.ufrj.br/2019/09/09/philippe-delteil/) | [slides](https://docs.google.com/presentation/d/1LpmyC-JZhhBkZOZpFip6AYjXkfthqOWugahp6H-d8Q4/edit?usp=drive_link) | [video](https://youtu.be/p7nyab5T_DM) 
 
-    [Bsides Cape Town (2019)](https://www.youtube.com/watch?v=nr8opyQXdHs) 
+    Bsides Cape Town (2019) | [slides](https://docs.google.com/presentation/d/13YH-oCTQCcW4VC8LpUAVQU6aIaUeVo2p9YO128iAlE8/edit?usp=sharing)|[video](https://www.youtube.com/watch?v=nr8opyQXdHs) 
 
-    Red Team Village @ Defcon China 1.0 [slides](https://docs.google.com/presentation/d/1B0dXl0PRu4gnyK1d2GmqjIHg2XDWdalaUTEK5pxJn7Q/edit?usp=drive_link)
+    Red Team Village @ Defcon China 1.0 | [slides](https://docs.google.com/presentation/d/1B0dXl0PRu4gnyK1d2GmqjIHg2XDWdalaUTEK5pxJn7Q/edit?usp=drive_link)
 
-    [CheckPoint NOLA (2020)](https://community.checkpoint.com/t5/General-Topics/CPX-360-2020/td-p/74584)
+    [CheckPoint NOLA (2020)](https://community.checkpoint.com/t5/General-Topics/CPX-360-2020/td-p/74584) | [slides](https://docs.google.com/presentation/d/1r55z6LbM6jD5vsh77Mu7g0lQ6BX2g2GZGsowutdOFM0/edit?usp=sharing)| video
 
 - How to know if you are a hacker?
 
